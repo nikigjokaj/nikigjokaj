@@ -40,7 +40,18 @@ I'm Nikollë Gjokaj, a versatile Computer Science graduate and freelancer with e
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge)
+![Meta LLaMA](https://img.shields.io/badge/Meta%20LLaMA-006AFF?style=for-the-badge&logo=meta&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF6C37?style=for-the-badge)
+![Grok](https://img.shields.io/badge/Grok-1E2328?style=for-the-badge)
+
+## 🧰 AI Tools
+![Flux](https://img.shields.io/badge/Flux-2A6DFF?style=for-the-badge)
+![Trae](https://img.shields.io/badge/Trae-FA7E1E?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-333333?style=for-the-badge)
+
 ## 🛠️ Tools & Others
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-
