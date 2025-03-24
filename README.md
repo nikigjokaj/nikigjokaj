@@ -47,6 +47,7 @@ I'm Nikollë Gjokaj, a versatile Computer Science graduate and freelancer with e
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF6C37?style=for-the-badge)
 ![Grok](https://img.shields.io/badge/Grok-1E2328?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-2955FF?style=for-the-badge)
 
 ## 🧰 AI Tools
 ![Flux](https://img.shields.io/badge/Flux-2A6DFF?style=for-the-badge)
