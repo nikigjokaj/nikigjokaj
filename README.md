@@ -44,7 +44,3 @@ I'm Nikollë Gjokaj, a versatile Computer Science graduate and freelancer with e
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
-
-## 🌐 Email:
-[![email]](mailto:niki_gjokaj@hotmail.com) 
-
