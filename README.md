@@ -1,6 +1,3 @@
-# 💫 About Me:
-I'm Nikollë Gjokaj, a versatile Computer Science graduate and freelancer with experience in software development, graphic design, and delivering tailored software solutions for businesses. My background spans multiple programming languages and diverse projects, including mobile and web applications.<br><br>I have a longstanding interest in Artificial Intelligence, actively following developments across language models, exploring new frontiers at the intersection of technology and creativity. I continuously explore and implement AI-driven solutions to enhance user experiences and operational efficiency.<br><br>I enjoy continuous learning, creative problem-solving, and collaborating on innovative projects that blend technology and design.<br><br>
-
 
 # 💻 Tech Stack
 
